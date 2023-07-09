@@ -1,5 +1,5 @@
 # Sobre o projeto
-  Este projeto é uma *API RESTFULL* no qual basicamente registra *Moments*(ou Posts) assim como *Comments*(Comentarios), o foco do projeto é demonstrar conhecimento no conceito de *API RESTFULL* com AdonisJS.
+  Este projeto é uma *API RESTFULL* no qual basicamente registra *Moments*(ou Posts) assim como *Comments*(Comentários), o foco do projeto é demonstrar conhecimento no conceito de *API RESTFULL* com AdonisJS.
 
 # Tecnologias Utilizadas
   * JavaScript
@@ -8,9 +8,9 @@
 
 # Como executar o projeto
   Pre-Requisito: NodeJs
-  * Clonar Repositorio
-  * Execuatr o comando npm -i
-  * Execuatr o comando Node ace serve --watch
+  * Clonar Repositório
+  * Executar o comando npm -i
+  * Executar o comando Node ace serve --watch
 
 
 
