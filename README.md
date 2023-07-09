@@ -1,5 +1,5 @@
 # Sobre o projeto
-  Este projeto é uma API RESTFULL no qual basicamente registra *Moments*(ou Posts) assim como *Comments*(Comentarios), o foco do projeto é demonstrar conhecimento no conceito de API RESTFULL com AdonisJS.
+  Este projeto é uma *API RESTFULL* no qual basicamente registra *Moments*(ou Posts) assim como *Comments*(Comentarios), o foco do projeto é demonstrar conhecimento no conceito de *API RESTFULL* com AdonisJS.
 
 # Tecnologias Utilizadas
   * JavaScript
